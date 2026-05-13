@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "antonioalbertofle",
+  "compatibility_date": "2026-05-13",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "antónio-alberto-portfolio (3)"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
