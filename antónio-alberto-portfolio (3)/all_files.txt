@@ -1,0 +1,167 @@
+./.env.example
+./.gitignore
+./dist
+./dist/assets
+./dist/assets/index-Cq7_rmaf.js
+./dist/assets/index-t7qzDccI.css
+./dist/images
+./dist/images/ANDAP (1).jpeg
+./dist/images/ANDAP (2).jpeg
+./dist/images/ANDAP (3).jpeg
+./dist/images/ANDAP (4).jpeg
+./dist/images/Foto porto 1.jpeg
+./dist/images/Foto porto 2-1.jpeg
+./dist/images/Foto porto 2-2.jpeg
+./dist/images/Foto porto 2-3.jpeg
+./dist/images/Foto porto 2-4.jpeg
+./dist/images/Foto porto 2.jpeg
+./dist/images/Foto porto 3.jpeg
+./dist/images/Foto porto 4 (1).jpeg
+./dist/images/Foto porto 4 (10).jpeg
+./dist/images/Foto porto 4 (11).jpeg
+./dist/images/Foto porto 4 (12).jpeg
+./dist/images/Foto porto 4 (13).jpeg
+./dist/images/Foto porto 4 (14).jpeg
+./dist/images/Foto porto 4 (15).jpeg
+./dist/images/Foto porto 4 (16).jpeg
+./dist/images/Foto porto 4 (17).jpeg
+./dist/images/Foto porto 4 (18).jpeg
+./dist/images/Foto porto 4 (19).jpeg
+./dist/images/Foto porto 4 (2).jpeg
+./dist/images/Foto porto 4 (20).jpeg
+./dist/images/Foto porto 4 (21).jpeg
+./dist/images/Foto porto 4 (22).jpeg
+./dist/images/Foto porto 4 (23).jpeg
+./dist/images/Foto porto 4 (24).jpeg
+./dist/images/Foto porto 4 (25).jpeg
+./dist/images/Foto porto 4 (26).jpeg
+./dist/images/Foto porto 4 (27).jpeg
+./dist/images/Foto porto 4 (28).jpeg
+./dist/images/Foto porto 4 (29).jpeg
+./dist/images/Foto porto 4 (3).jpeg
+./dist/images/Foto porto 4 (30).jpeg
+./dist/images/Foto porto 4 (31).jpeg
+./dist/images/Foto porto 4 (32).jpeg
+./dist/images/Foto porto 4 (33).jpeg
+./dist/images/Foto porto 4 (34).jpeg
+./dist/images/Foto porto 4 (35).jpeg
+./dist/images/Foto porto 4 (36).jpeg
+./dist/images/Foto porto 4 (37).jpeg
+./dist/images/Foto porto 4 (38).jpeg
+./dist/images/Foto porto 4 (39).jpeg
+./dist/images/Foto porto 4 (4).jpeg
+./dist/images/Foto porto 4 (40).jpeg
+./dist/images/Foto porto 4 (41).jpeg
+./dist/images/Foto porto 4 (42).jpeg
+./dist/images/Foto porto 4 (43).jpeg
+./dist/images/Foto porto 4 (44).jpeg
+./dist/images/Foto porto 4 (45).jpeg
+./dist/images/Foto porto 4 (46).jpeg
+./dist/images/Foto porto 4 (47).jpeg
+./dist/images/Foto porto 4 (5).jpeg
+./dist/images/Foto porto 4 (6).jpeg
+./dist/images/Foto porto 4 (7).jpeg
+./dist/images/Foto porto 4 (8).jpeg
+./dist/images/Foto porto 4 (9).jpeg
+./dist/images/Licenciatura (1).jpeg
+./dist/images/Licenciatura (2).jpeg
+./dist/images/Licenciatura (3).jpeg
+./dist/images/Quadro de honra.jpeg
+./dist/images/instrucoes-fotos.txt
+./dist/index.html
+./find_mp4.cjs
+./find_mp4.js
+./find_mp4.mjs
+./find_root.mjs
+./find_spec.mjs
+./find_vids.mjs
+./index.html
+./list_all.mjs
+./metadata.json
+./package-lock.json
+./package.json
+./public
+./public/images
+./public/images/ANDAP (1).jpeg
+./public/images/ANDAP (2).jpeg
+./public/images/ANDAP (3).jpeg
+./public/images/ANDAP (4).jpeg
+./public/images/Foto porto 1.jpeg
+./public/images/Foto porto 2-1.jpeg
+./public/images/Foto porto 2-2.jpeg
+./public/images/Foto porto 2-3.jpeg
+./public/images/Foto porto 2-4.jpeg
+./public/images/Foto porto 2.jpeg
+./public/images/Foto porto 3.jpeg
+./public/images/Foto porto 4 (1).jpeg
+./public/images/Foto porto 4 (10).jpeg
+./public/images/Foto porto 4 (11).jpeg
+./public/images/Foto porto 4 (12).jpeg
+./public/images/Foto porto 4 (13).jpeg
+./public/images/Foto porto 4 (14).jpeg
+./public/images/Foto porto 4 (15).jpeg
+./public/images/Foto porto 4 (16).jpeg
+./public/images/Foto porto 4 (17).jpeg
+./public/images/Foto porto 4 (18).jpeg
+./public/images/Foto porto 4 (19).jpeg
+./public/images/Foto porto 4 (2).jpeg
+./public/images/Foto porto 4 (20).jpeg
+./public/images/Foto porto 4 (21).jpeg
+./public/images/Foto porto 4 (22).jpeg
+./public/images/Foto porto 4 (23).jpeg
+./public/images/Foto porto 4 (24).jpeg
+./public/images/Foto porto 4 (25).jpeg
+./public/images/Foto porto 4 (26).jpeg
+./public/images/Foto porto 4 (27).jpeg
+./public/images/Foto porto 4 (28).jpeg
+./public/images/Foto porto 4 (29).jpeg
+./public/images/Foto porto 4 (3).jpeg
+./public/images/Foto porto 4 (30).jpeg
+./public/images/Foto porto 4 (31).jpeg
+./public/images/Foto porto 4 (32).jpeg
+./public/images/Foto porto 4 (33).jpeg
+./public/images/Foto porto 4 (34).jpeg
+./public/images/Foto porto 4 (35).jpeg
+./public/images/Foto porto 4 (36).jpeg
+./public/images/Foto porto 4 (37).jpeg
+./public/images/Foto porto 4 (38).jpeg
+./public/images/Foto porto 4 (39).jpeg
+./public/images/Foto porto 4 (4).jpeg
+./public/images/Foto porto 4 (40).jpeg
+./public/images/Foto porto 4 (41).jpeg
+./public/images/Foto porto 4 (42).jpeg
+./public/images/Foto porto 4 (43).jpeg
+./public/images/Foto porto 4 (44).jpeg
+./public/images/Foto porto 4 (45).jpeg
+./public/images/Foto porto 4 (46).jpeg
+./public/images/Foto porto 4 (47).jpeg
+./public/images/Foto porto 4 (5).jpeg
+./public/images/Foto porto 4 (6).jpeg
+./public/images/Foto porto 4 (7).jpeg
+./public/images/Foto porto 4 (8).jpeg
+./public/images/Foto porto 4 (9).jpeg
+./public/images/Licenciatura (1).jpeg
+./public/images/Licenciatura (2).jpeg
+./public/images/Licenciatura (3).jpeg
+./public/images/Quadro de honra.jpeg
+./public/images/instrucoes-fotos.txt
+./src
+./src/App.tsx
+./src/components
+./src/components/About.tsx
+./src/components/Academics.tsx
+./src/components/Contact.tsx
+./src/components/ErrorBoundary.tsx
+./src/components/Experience.tsx
+./src/components/FloatingWhatsApp.tsx
+./src/components/Footer.tsx
+./src/components/Gallery.tsx
+./src/components/Hero.tsx
+./src/components/Navbar.tsx
+./src/components/Skills.tsx
+./src/components/Testimonials.tsx
+./src/constants.ts
+./src/index.css
+./src/main.tsx
+./tsconfig.json
+./vite.config.ts
